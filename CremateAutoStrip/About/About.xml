@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Cremate Auto Strip</name>
+	<author>bdew</author>
+	<packageId>BDew.CremateAutoStrip</packageId>
+	<supportedVersions>
+	  <li>1.1</li>
+	</supportedVersions>
+	<url>https://github.com/bdew-rw/MiscMods</url>
+	<description>
+Auto strip corpses when cremating.
+	</description>
+</ModMetaData>

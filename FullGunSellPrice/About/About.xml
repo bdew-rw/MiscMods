@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Full Gun Sell Price</name>
+	<author>bdew</author>
+	<packageId>BDew.FullGunSellPrice</packageId>
+	<supportedVersions>
+	  <li>1.1</li>
+	</supportedVersions>
+	<url>https://github.com/bdew-rw/MiscMods</url>
+	<description>
+Removes reduced sell price multiplier for weapons.
+	</description>
+</ModMetaData>
